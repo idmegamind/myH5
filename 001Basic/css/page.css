@@ -20,11 +20,18 @@ page{
 }
 #q{
     animation: q 10s infinite;
+    background-image: url("../imges/gril.png");
+    background-size:100% 100% ;
 }
 #d{
     background-color: black;
     color: white;
     animation: d 10s infinite;
+}
+#z{
+    font-size: 36px;
+    display: block;
+    animation: z 10s infinite;
 }
 @keyframes c {
     0%{opacity: 0}
